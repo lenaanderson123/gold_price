@@ -208,7 +208,7 @@ import random
 # ==============================
 # 1. 基础配置与北京时间
 # ==============================
-st.set_page_config(layout="wide", page_title="黄金多维度实时盯盘系统")
+st.set_page_config(layout="wide", page_title="gptgold")
 DB_FILE = "gold_final_pro_v11.json"
 BEIJING_TZ = pytz.timezone('Asia/Shanghai')
 
